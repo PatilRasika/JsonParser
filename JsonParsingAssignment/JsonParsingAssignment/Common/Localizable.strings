@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  JsonParsingAssignment
+
+*/
+
+"app_alert_displayTitle" = "Alert";
+"app_error_displayTitle" = "Something went wrong, Please try again later.";
+"app_OK";
